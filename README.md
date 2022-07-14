@@ -6,4 +6,4 @@
 
 ---
 
-[名字](https://github.com/SunXianyong/ai_2111A/new/main?readme=1)
+[名字](https://github.com/SunXianyong/ai_2111A)
