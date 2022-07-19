@@ -45,7 +45,7 @@
 
 19	[耿志鹏]( )
 
-20	[王钦平](Gitee: https://gitee.com/w-qp)
+20	[王钦平](https://gitee.com/w-qp)
 
 21	[刘明阳]()
 
