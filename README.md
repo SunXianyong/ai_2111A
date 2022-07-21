@@ -31,7 +31,7 @@
 
 12	[谷建勇](https://gitee.com/gjy0717)
 
-13	[王洋](	https://gitee.com/dashboard)
+13	[王洋](	https://gitee.com/-ang-ang/p8_zuoye.git)
 
 14	[刘龙涛](https://gitee.com/l-lt/projects)	
 
