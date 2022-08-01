@@ -43,13 +43,13 @@
 
 18	[吕华龙](https://gitee.com/lv-hualong )
 
-19	[耿志鹏]( )
+19	[耿志鹏](https://gitee.com/geng-zhipeng/dashboard/projects)
 
 20	[王钦平](https://gitee.com/w-qp)
 
 21	[刘明阳](https://gitee.com/xiao-caicai/projects)
 
-22	[苏梦牵](https://git.com/helongniubi)
+22	[苏梦牵](https://gitee.com/sumengqian/review)
 
 23	[韩成瑾](https://gitee.com/han-chengjin)
 
