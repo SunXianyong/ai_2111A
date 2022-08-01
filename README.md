@@ -9,7 +9,7 @@
 [名字](https://github.com/SunXianyong/ai_2111A)   
 1	[李振琪](https://gitee.com/liangwanfan)
 
-2	[郭奕镕]()
+2	[郭奕镕](https://gitee.com/guoyirong/dashboard/projects)
 
 3	[王智广]()
 
@@ -17,7 +17,7 @@
 
 5	[黄永帅](https://gitee.com/huangyong-shuai)
 
-6	[王林翔](https://gitee.com/wanglxadmin)
+6	[王林翔](https://github.com/BugAdmi/Wang)
 
 7	[马可](	https://gitee.com/ma-rk)
 
@@ -29,7 +29,7 @@
 
 11	[谈丰谷]()
 
-12	[谷建勇](https://gitee.com/gjy0717)
+12	[谷建勇](https://gitee.com/gjy0717/p8qizhongkaoshi)
 
 13	[王洋](	https://gitee.com/-ang-ang/p8_zuoye.git)
 
