@@ -11,7 +11,7 @@
 
 2	[郭奕镕](https://gitee.com/guoyirong/dashboard/projects)
 
-3	[王智广]()
+3	[王智广](https://gitee.com/bigon/p8_test)
 
 4	[张天赐](https://gitee.com/z--werasdf)
 
@@ -19,15 +19,11 @@
 
 6	[王林翔](https://github.com/BugAdmi/Wang)
 
-7	[马可](	https://gitee.com/ma-rk)
-
 8	[杨振](	https://gitee.com/thirsty-eye-dragon)
 
 9	[郭文楚](https://gitee.com/guo-wenchu)
 
 10	[张恒](	https://gitee.com/bai_zhuo_166)
-
-11	[谈丰谷]()
 
 12	[谷建勇](https://gitee.com/gjy0717/p8qizhongkaoshi)
 
@@ -35,11 +31,7 @@
 
 14	[刘龙涛](https://gitee.com/l-lt/projects)	
 
-15	[贺龙]( 	)
-
 16	[张海洋](https://gitee.com/gsx250r)
-
-17	[路杭灵](https://gitee.com/qi-qi-123/dashboard/projects )
 
 18	[吕华龙](https://gitee.com/lv-hualong )
 
@@ -57,5 +49,11 @@
 
 25	[赵会莹](https://gitee.com/yiyiererqiqi)
 
-26	[刘广玲]()
+26	[刘广玲](https://gitee.com/liu-xiaomu/p8-new-project)
+
+27  [刘豪](https://gitee.com/baimianxiao/p-9)
+
+28  [李俱进](https://gitee.com/lijujin/p9)
+
+29  [张照微](https://gitee.com/zzw20011214/p9worck)
 
